@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  "heapsort"
+  "github.com/RodrigoMartinVG/algorithms/heapsort"
 
 )
 
